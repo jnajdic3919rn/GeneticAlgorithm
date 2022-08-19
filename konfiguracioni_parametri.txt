@@ -1,0 +1,9 @@
+Broj pokretanja:3
+Velicina populacije:50
+Broj jedinki za parenje:25
+Broj jedinki za mutaciju:11
+Procenat odsecanja:0.3
+Num param low:-3
+Num param high:3
+Random seed:100
+Putanja do izlazne datoteke:izlazni_fajl.txt
