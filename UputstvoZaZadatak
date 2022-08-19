@@ -1,0 +1,11 @@
+Zadatak je neuronska mreža koju treba kompajlirati iz izvornog koda i onda povezati sa svojim rešenjem kako bi se izvršilo treniranje. 
+Mrežu koristite za izračunavanje funkcije troška, koju u ovom slučaju treba minimizovati. 
+Težinski koeficijenti neuronske mreže zadaju se kao argumenti komandne linije. 
+Rezultat provere mreže (tj. vrednost funkcije troška za pojedinačni slučaj) dobija se na standardnom izlazu i odatle ga treba pročitati. 
+U principu ne postoji ograničenje za težinske koeficijente, možete uzeti da su vrednosti od -3 do 3, 
+sa preciznošću na proizvoljan broj decimala koji vam daje povoljne rezultate (najmanje jedno mesto iza decimalne tačke, ali može i više). 
+Nije poznata minimalna izvodljiva vrednost funkcije troška (u idealnom slučaju je 0).
+
+Fajl l.c, trenira se sa ukupno 32 težinska koeficijenta koji se zadaju preko komandne linije (realni brojevi razdvojeni razmakom).
+
+
